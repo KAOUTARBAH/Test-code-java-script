@@ -14,3 +14,4 @@ if (t) {
 
 // Il est aussi possible de récupérer une liste d'éléments (array)
 const paragraphs = document.getElementsByClassName('mon-paragraph')
+console.log('coucou')
