@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+  }
+  
+  .jeux {
+    position: absolute;
+    padding: .6rem;
+    background-color: #B8CDF8;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .jeux p {
+    color: #41463D;
+  }
+  
+  .wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .jeux .key {
+    font-size: 3.5rem;
+    font-family: arial;
+    font-weight: bold;
+  }
